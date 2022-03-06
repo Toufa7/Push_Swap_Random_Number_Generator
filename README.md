@@ -4,6 +4,10 @@ Generate one or more random numbers in your custom range, Generate positive or n
 
 How To Use a Random Number Generator;
 
+:warning: First don't forget to change permissions to executable
+
+	chmod +x ./ngen.py
+
 1.Start by entering a number of your choice in the Lower Limit box.
 
 <img src="https://i.ibb.co/B3NB2dY/Screen-Shot-2022-03-06-at-11-14-49-AM.png" width="300"/>
@@ -24,8 +28,7 @@ How To Use a Random Number Generator;
 
 <img src="https://i.ibb.co/XV4drHL/Screen-Shot-2022-03-06-at-11-19-44-AM.png" width="200"/>
 
-# A quick demonstration of how it works ;
-
+# A quick demonstration of how it works
 
 <img src="https://media0.giphy.com/media/K4UAh8rgdwZ1x3W9jv/giphy.gif" width="600" height="700" />
 
