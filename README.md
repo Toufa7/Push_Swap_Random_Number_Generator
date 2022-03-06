@@ -1,4 +1,4 @@
-# Random_Number_Generator
+# Random Number Generator
 
 Generate one or more random numbers in your custom range, Generate positive or negative random numbers with no repeats.
 
