@@ -69,7 +69,7 @@ def exit():
 
 poms = Tk()
 
-poms.title("Numbers Generator") #title of the Program
+poms.title("Number Generator") #title of the Program
 poms.minsize(600, 700)
 poms.resizable(0, 0) # blocking resizing
 poms.attributes('-alpha',1.8) # for transparance 
