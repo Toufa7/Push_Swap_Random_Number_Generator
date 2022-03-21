@@ -6,7 +6,7 @@ How To Use a Random Number Generator;
 
 :warning: First don't forget to change permissions to executable
 
-	chmod +x ./ngen.py
+	chmod +x ./rngen.py
 
 1.Start by entering a number of your choice in the Lower Limit box.
 
