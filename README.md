@@ -1,4 +1,4 @@
-# Random Number Generator
+# Random Number Generator for PUSH_SWAP
 
 Generate one or more random numbers in your custom range, Generate positive or negative random numbers with no repeats.
 
